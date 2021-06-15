@@ -1,0 +1,12 @@
+ *{
+            margin: 0px;
+            padding: 0px;
+        }
+.bx{
+            background-color: blue;
+            padding: 4rem;
+            border: 1px solid white;
+        }
+#mainbox{
+            border: 1px solid green;
+        }
